@@ -1,0 +1,3965 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "362196559",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "пр. Мира, 181"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.436263592649734,
+          54.7210017330816
+        ]
+      },
+      "options": {
+        "zIndex": 800000000,
+        "order": 800000000,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196560",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "пр. Мира, 124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.46374148290248,
+          54.72316069618134
+        ]
+      },
+      "options": {
+        "zIndex": 800000001,
+        "order": 800000001,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196561",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "пер. Карташева, 12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.35122583565058,
+          54.72898894600308
+        ]
+      },
+      "options": {
+        "zIndex": 800000002,
+        "order": 800000002,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196562",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "парк имени Юрия Гагарина"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.461330272491267,
+          54.68378585294043
+        ]
+      },
+      "options": {
+        "zIndex": 800000003,
+        "order": 800000003,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196564",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "парк Южный"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.51487061111431,
+          54.69301612430241
+        ]
+      },
+      "options": {
+        "zIndex": 800000005,
+        "order": 800000005,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196565",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Ярославская, 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.52453344659174,
+          54.71289496402924
+        ]
+      },
+      "options": {
+        "zIndex": 800000006,
+        "order": 800000006,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196566",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Яналова, 14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.481845,
+          54.730139
+        ]
+      },
+      "options": {
+        "zIndex": 800000007,
+        "order": 800000007,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196567",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Ялтинская, 65А-Г"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.551955408562772,
+          54.705895704264954
+        ]
+      },
+      "options": {
+        "zIndex": 800000008,
+        "order": 800000008,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196568",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Юрия Маточкина, 6-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.491200822089912,
+          54.74183713556133
+        ]
+      },
+      "options": {
+        "zIndex": 800000009,
+        "order": 800000009,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196569",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Эльблонгская, 9-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.499150908152245,
+          54.70030204810404
+        ]
+      },
+      "options": {
+        "zIndex": 800000010,
+        "order": 800000010,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196570",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Эльблонгская, 19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.496945,
+          54.700337
+        ]
+      },
+      "options": {
+        "zIndex": 800000011,
+        "order": 800000011,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196571",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Щепкина, 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.435617958334685,
+          54.67145554246128
+        ]
+      },
+      "options": {
+        "zIndex": 800000012,
+        "order": 800000012,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196572",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Шота Руставели, 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.491070017022892,
+          54.72272573987585
+        ]
+      },
+      "options": {
+        "zIndex": 800000013,
+        "order": 800000013,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196573",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Школьная, 3-5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.482691505626573,
+          54.68329719048861
+        ]
+      },
+      "options": {
+        "zIndex": 800000014,
+        "order": 800000014,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196574",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Шевченко, 1-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.510681,
+          54.712341
+        ]
+      },
+      "options": {
+        "zIndex": 800000015,
+        "order": 800000015,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196575",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Шевцовой б, 92"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.50880068220886,
+          54.67140496404954
+        ]
+      },
+      "options": {
+        "zIndex": 800000016,
+        "order": 800000016,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196576",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Шевцовой б, 43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.504546015868357,
+          54.67153762355931
+        ]
+      },
+      "options": {
+        "zIndex": 800000017,
+        "order": 800000017,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196577",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Чувашская, 9-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.550770447745624,
+          54.723011084887915
+        ]
+      },
+      "options": {
+        "zIndex": 800000018,
+        "order": 800000018,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196578",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Челюскинская, 14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.35601455092481,
+          54.72456401465623
+        ]
+      },
+      "options": {
+        "zIndex": 800000019,
+        "order": 800000019,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196579",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Чекистов, 28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.477305678572034,
+          54.732732402638696
+        ]
+      },
+      "options": {
+        "zIndex": 800000020,
+        "order": 800000020,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196580",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Чекистов, 18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.479287783948312,
+          54.732758379519446
+        ]
+      },
+      "options": {
+        "zIndex": 800000021,
+        "order": 800000021,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196581",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Харьковская, 20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.451501,
+          54.711034
+        ]
+      },
+      "options": {
+        "zIndex": 800000022,
+        "order": 800000022,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196582",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Фрунзе, 91"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.53149243788077,
+          54.713711795178476
+        ]
+      },
+      "options": {
+        "zIndex": 800000023,
+        "order": 800000023,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196583",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Транспортная, 12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.446133,
+          54.691133
+        ]
+      },
+      "options": {
+        "zIndex": 800000024,
+        "order": 800000024,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196584",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Томская, 8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.527265276473578,
+          54.71407128913458
+        ]
+      },
+      "options": {
+        "zIndex": 800000025,
+        "order": 800000025,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196586",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Толстого пер., 1-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.356779034392577,
+          54.73192684846019
+        ]
+      },
+      "options": {
+        "zIndex": 800000026,
+        "order": 800000026,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196587",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Тихорецкая, 16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.485619683536164,
+          54.68448171255401
+        ]
+      },
+      "options": {
+        "zIndex": 800000027,
+        "order": 800000027,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196588",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Тихорецкая, 12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.487418,
+          54.684436
+        ]
+      },
+      "options": {
+        "zIndex": 800000028,
+        "order": 800000028,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196589",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Тихоненко, 71Б"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.430011,
+          54.723113
+        ]
+      },
+      "options": {
+        "zIndex": 800000029,
+        "order": 800000029,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196590",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Суворова, 55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.467094,
+          54.68953
+        ]
+      },
+      "options": {
+        "zIndex": 800000030,
+        "order": 800000030,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196591",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Стрелецкая, 14-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.54939961607696,
+          54.71943737296205
+        ]
+      },
+      "options": {
+        "zIndex": 800000031,
+        "order": 800000031,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196592",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Степана Разина, 39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.466694899474636,
+          54.72282185565812
+        ]
+      },
+      "options": {
+        "zIndex": 800000032,
+        "order": 800000032,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196593",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Стекольная, 47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.535416509669677,
+          54.71116574281294
+        ]
+      },
+      "options": {
+        "zIndex": 800000033,
+        "order": 800000033,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196594",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Солнечный бульвар, 18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.520679272516066,
+          54.70468167726718
+        ]
+      },
+      "options": {
+        "zIndex": 800000034,
+        "order": 800000034,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196595",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Солдатская, 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.481545208666905,
+          54.73790163378599
+        ]
+      },
+      "options": {
+        "zIndex": 800000035,
+        "order": 800000035,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196596",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Согласия, 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.494328548270644,
+          54.74169722216959
+        ]
+      },
+      "options": {
+        "zIndex": 800000036,
+        "order": 800000036,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196598",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Советский пр., 105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.47999423677049,
+          54.7370769843901
+        ]
+      },
+      "options": {
+        "zIndex": 800000037,
+        "order": 800000037,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196599",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Славянская, 47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.358778029429985,
+          54.724157687150324
+        ]
+      },
+      "options": {
+        "zIndex": 800000038,
+        "order": 800000038,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196600",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Сеченова, 14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.353242,
+          54.732202
+        ]
+      },
+      "options": {
+        "zIndex": 800000039,
+        "order": 800000039,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196601",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Сергеева, 41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.516317,
+          54.718621
+        ]
+      },
+      "options": {
+        "zIndex": 800000040,
+        "order": 800000040,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196602",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Севастьянова, 24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.512637388067382,
+          54.71554941578767
+        ]
+      },
+      "options": {
+        "zIndex": 800000041,
+        "order": 800000041,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196603",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Самаркандская, 28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.502078934992973,
+          54.67735643366032
+        ]
+      },
+      "options": {
+        "zIndex": 800000042,
+        "order": 800000042,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196604",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Садовая, 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.467864254192094,
+          54.68214405736123
+        ]
+      },
+      "options": {
+        "zIndex": 800000043,
+        "order": 800000043,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196605",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Рокоссовского, 7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.507518198638138,
+          54.71837028481798
+        ]
+      },
+      "options": {
+        "zIndex": 800000044,
+        "order": 800000044,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196606",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Репина, 46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.489422470133743,
+          54.72748557283764
+        ]
+      },
+      "options": {
+        "zIndex": 800000045,
+        "order": 800000045,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196607",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Ракитная, 9-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.512881,
+          54.723423
+        ]
+      },
+      "options": {
+        "zIndex": 800000046,
+        "order": 800000046,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196608",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Радистов, 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.437561,
+          54.713868
+        ]
+      },
+      "options": {
+        "zIndex": 800000047,
+        "order": 800000047,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196609",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Портовая, 5-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.501444196860337,
+          54.70399977452432
+        ]
+      },
+      "options": {
+        "zIndex": 800000048,
+        "order": 800000048,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196610",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Полковника Ефремова, 2-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.502923939811446,
+          54.744816373984364
+        ]
+      },
+      "options": {
+        "zIndex": 800000049,
+        "order": 800000049,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196611",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Подполковника Емельянова, 49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.574036,
+          54.682346
+        ]
+      },
+      "options": {
+        "zIndex": 800000050,
+        "order": 800000050,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196612",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Победы пр., 208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.416882,
+          54.714018
+        ]
+      },
+      "options": {
+        "zIndex": 800000051,
+        "order": 800000051,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196613",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Победы пр., 201б"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.42468,
+          54.711983
+        ]
+      },
+      "options": {
+        "zIndex": 800000052,
+        "order": 800000052,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196614",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Победы пр., 159А"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.436961,
+          54.711079
+        ]
+      },
+      "options": {
+        "zIndex": 800000053,
+        "order": 800000053,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196615",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Печатная, 45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.475774836053713,
+          54.67084407251857
+        ]
+      },
+      "options": {
+        "zIndex": 800000054,
+        "order": 800000054,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196616",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Парусная, 29-33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.50812394858222,
+          54.7034198572728
+        ]
+      },
+      "options": {
+        "zIndex": 800000055,
+        "order": 800000055,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196617",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "У. Громовой, 119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.504189,
+          54.663777
+        ]
+      },
+      "options": {
+        "zIndex": 800000056,
+        "order": 800000056,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196618",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Павлика Морозова, 102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.477081831841108,
+          54.6745879070339
+        ]
+      },
+      "options": {
+        "zIndex": 800000057,
+        "order": 800000057,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196619",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Озёрная, 2-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.510825362353447,
+          54.73594553418296
+        ]
+      },
+      "options": {
+        "zIndex": 800000058,
+        "order": 800000058,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196620",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Озерова, 11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.49722084655676,
+          54.72665012467736
+        ]
+      },
+      "options": {
+        "zIndex": 800000059,
+        "order": 800000059,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196621",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Одесская-Краснопресненская"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.56079319945177,
+          54.6785042356877
+        ]
+      },
+      "options": {
+        "zIndex": 800000060,
+        "order": 800000060,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196622",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Нарвская, 66"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.500431822032063,
+          54.73623885797919
+        ]
+      },
+      "options": {
+        "zIndex": 800000061,
+        "order": 800000061,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196623",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Нарвская, 37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.496670694441736,
+          54.73160733838465
+        ]
+      },
+      "options": {
+        "zIndex": 800000062,
+        "order": 800000062,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196624",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Нансена, 74-78"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.474001693114815,
+          54.69477543274802
+        ]
+      },
+      "options": {
+        "zIndex": 800000063,
+        "order": 800000063,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196625",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Нансена, 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.491884,
+          54.696927
+        ]
+      },
+      "options": {
+        "zIndex": 800000064,
+        "order": 800000064,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196626",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Московский пр., 14Б"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.49666819377817,
+          54.70984951744351
+        ]
+      },
+      "options": {
+        "zIndex": 800000065,
+        "order": 800000065,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196627",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Можайская, 67-69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.441884554561103,
+          54.67674805555485
+        ]
+      },
+      "options": {
+        "zIndex": 800000066,
+        "order": 800000066,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196628",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Мкр. Прибрежный,  Парковая, 9А"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.342535901782167,
+          54.650809201600254
+        ]
+      },
+      "options": {
+        "zIndex": 800000067,
+        "order": 800000067,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196629",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Мкр. Прибрежный,  Заводская, 37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.333473294650656,
+          54.652729209513026
+        ]
+      },
+      "options": {
+        "zIndex": 800000068,
+        "order": 800000068,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196630",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Мкр. Прибрежный,  Заводская, 27А"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3331242919955,
+          54.65085481958941
+        ]
+      },
+      "options": {
+        "zIndex": 800000069,
+        "order": 800000069,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196631",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Мкр. Прибрежный,  Береговая, 66"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.327687452707835,
+          54.65115798688486
+        ]
+      },
+      "options": {
+        "zIndex": 800000070,
+        "order": 800000070,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196632",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Мкр. Прибрежный,  Береговая, 27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.330028827052754,
+          54.64986012539171
+        ]
+      },
+      "options": {
+        "zIndex": 800000071,
+        "order": 800000071,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196633",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Мкр Малое Борисово, 11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.62453639615494,
+          54.682024086621176
+        ]
+      },
+      "options": {
+        "zIndex": 800000072,
+        "order": 800000072,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196634",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Минская, 18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.511046838121512,
+          54.718934431934294
+        ]
+      },
+      "options": {
+        "zIndex": 800000073,
+        "order": 800000073,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196635",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Менделеева, 12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.44074288170376,
+          54.71280231608007
+        ]
+      },
+      "options": {
+        "zIndex": 800000074,
+        "order": 800000074,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196636",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Машиностроительная, 176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.513529,
+          54.678792
+        ]
+      },
+      "options": {
+        "zIndex": 800000075,
+        "order": 800000075,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196637",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Машиностроительная, 146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.50939868339467,
+          54.67897286824651
+        ]
+      },
+      "options": {
+        "zIndex": 800000076,
+        "order": 800000076,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196638",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Маршала Борзова, 88"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.462874092732548,
+          54.73708993588605
+        ]
+      },
+      "options": {
+        "zIndex": 800000077,
+        "order": 800000077,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196639",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Луганская, 7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.519049017196064,
+          54.672759556113675
+        ]
+      },
+      "options": {
+        "zIndex": 800000078,
+        "order": 800000078,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196640",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Литовский вал, 50-52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.53569577909732,
+          54.71247610586406
+        ]
+      },
+      "options": {
+        "zIndex": 800000079,
+        "order": 800000079,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196641",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Лескова, 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.529107089617778,
+          54.7351516847706
+        ]
+      },
+      "options": {
+        "zIndex": 800000080,
+        "order": 800000080,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196642",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Ленинский пр., 84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.502031310805698,
+          54.699676251856694
+        ]
+      },
+      "options": {
+        "zIndex": 800000081,
+        "order": 800000081,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196643",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Ленинский пр., 8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.502627384023942,
+          54.71539025098737
+        ]
+      },
+      "options": {
+        "zIndex": 800000082,
+        "order": 800000082,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196644",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Ленинский пр., 44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.502690082946803,
+          54.701381654215446
+        ]
+      },
+      "options": {
+        "zIndex": 800000083,
+        "order": 800000083,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196645",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Ленинский пр., 25-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.504145320801943,
+          54.71630589569626
+        ]
+      },
+      "options": {
+        "zIndex": 800000084,
+        "order": 800000084,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196646",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Ленинский пр., 123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.504404014505752,
+          54.699801068824875
+        ]
+      },
+      "options": {
+        "zIndex": 800000085,
+        "order": 800000085,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196647",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Лейтенанта Яналова, 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.48877818475771,
+          54.72980236570478
+        ]
+      },
+      "options": {
+        "zIndex": 800000086,
+        "order": 800000086,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196648",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Куйбышева, 51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.533793,
+          54.727355
+        ]
+      },
+      "options": {
+        "zIndex": 800000087,
+        "order": 800000087,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196649",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Куйбышева, 181-187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.544831265219827,
+          54.72545299942058
+        ]
+      },
+      "options": {
+        "zIndex": 800000088,
+        "order": 800000088,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196650",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Куйбышева, 169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.541651842921603,
+          54.72664169028228
+        ]
+      },
+      "options": {
+        "zIndex": 800000089,
+        "order": 800000089,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196651",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Кронштадтская"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.493319049281464,
+          54.721131240492284
+        ]
+      },
+      "options": {
+        "zIndex": 800000090,
+        "order": 800000090,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196652",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Кремлеская, 7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.442868441801863,
+          54.669556269993436
+        ]
+      },
+      "options": {
+        "zIndex": 800000091,
+        "order": 800000091,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196653",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Красносельская, 20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.44563657205311,
+          54.71269594082278
+        ]
+      },
+      "options": {
+        "zIndex": 800000092,
+        "order": 800000092,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196654",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Краснодонский пер., 8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.553607031911405,
+          54.72533003022779
+        ]
+      },
+      "options": {
+        "zIndex": 800000093,
+        "order": 800000093,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196655",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Красная, 88"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.474852,
+          54.731484
+        ]
+      },
+      "options": {
+        "zIndex": 800000094,
+        "order": 800000094,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196656",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Кошевого, 11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.513784167983765,
+          54.67431430043276
+        ]
+      },
+      "options": {
+        "zIndex": 800000095,
+        "order": 800000095,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196657",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Космическая, 36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.498697947816577,
+          54.71332648578775
+        ]
+      },
+      "options": {
+        "zIndex": 800000096,
+        "order": 800000096,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196659",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Комсомольская, 37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.47757251128319,
+          54.72665170916119
+        ]
+      },
+      "options": {
+        "zIndex": 800000098,
+        "order": 800000098,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196660",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Коммунистическая, 30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.482377853541752,
+          54.675259402633394
+        ]
+      },
+      "options": {
+        "zIndex": 800000099,
+        "order": 800000099,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196661",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Коммунальный пер., 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.465360500489794,
+          54.73008740739732
+        ]
+      },
+      "options": {
+        "zIndex": 800000100,
+        "order": 800000100,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196662",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Кирпичная, 17а"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.52452607051547,
+          54.7106163671008
+        ]
+      },
+      "options": {
+        "zIndex": 800000101,
+        "order": 800000101,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196663",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Кирова, 55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.488158479137223,
+          54.7256195868917
+        ]
+      },
+      "options": {
+        "zIndex": 800000102,
+        "order": 800000102,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196664",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Киевская, 74"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.47623023047976,
+          54.6817437327242
+        ]
+      },
+      "options": {
+        "zIndex": 800000103,
+        "order": 800000103,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196665",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Киевская, 112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.466927822090014,
+          54.68188543668905
+        ]
+      },
+      "options": {
+        "zIndex": 800000104,
+        "order": 800000104,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196666",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Каштановая аллея, 14А"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.465424,
+          54.715303
+        ]
+      },
+      "options": {
+        "zIndex": 800000105,
+        "order": 800000105,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196667",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Карташева, 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.370945,
+          54.716041
+        ]
+      },
+      "options": {
+        "zIndex": 800000106,
+        "order": 800000106,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196668",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Карташева, 30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.371176,
+          54.718297
+        ]
+      },
+      "options": {
+        "zIndex": 800000107,
+        "order": 800000107,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196670",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Калужская, 11-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.499678466903617,
+          54.72851239550131
+        ]
+      },
+      "options": {
+        "zIndex": 800000109,
+        "order": 800000109,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196671",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Каблукова, 14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.366954822090076,
+          54.72353516858551
+        ]
+      },
+      "options": {
+        "zIndex": 800000110,
+        "order": 800000110,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196672",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Интернациональная, 60-62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.507455776790287,
+          54.66876610310483
+        ]
+      },
+      "options": {
+        "zIndex": 800000111,
+        "order": 800000111,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196673",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Интернациональная, 19-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.49926529773599,
+          54.670244913703705
+        ]
+      },
+      "options": {
+        "zIndex": 800000112,
+        "order": 800000112,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196674",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Ижорская, 8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.373257,
+          54.725417
+        ]
+      },
+      "options": {
+        "zIndex": 800000113,
+        "order": 800000113,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196675",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Ижорская, 11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.36658152513039,
+          54.72670949710009
+        ]
+      },
+      "options": {
+        "zIndex": 800000114,
+        "order": 800000114,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196676",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Зоопарк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.485479983219154,
+          54.724539387108194
+        ]
+      },
+      "options": {
+        "zIndex": 800000115,
+        "order": 800000115,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196677",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Зои Космодемьянской, 2-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.52383567341731,
+          54.6836850239441
+        ]
+      },
+      "options": {
+        "zIndex": 800000116,
+        "order": 800000116,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196678",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Звёздная, 25а"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.498747568683868,
+          54.71455714857934
+        ]
+      },
+      "options": {
+        "zIndex": 800000117,
+        "order": 800000117,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196679",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Жиленкова, 16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.451728406080665,
+          54.77031618257724
+        ]
+      },
+      "options": {
+        "zIndex": 800000118,
+        "order": 800000118,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196680",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Емельянова, 253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.585111557216027,
+          54.68251728489519
+        ]
+      },
+      "options": {
+        "zIndex": 800000119,
+        "order": 800000119,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196681",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Еловая аллея, 40-44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.54325984292155,
+          54.72843529320828
+        ]
+      },
+      "options": {
+        "zIndex": 800000120,
+        "order": 800000120,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196682",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Дмитрия Донского, 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.49336571629521,
+          54.71663327279485
+        ]
+      },
+      "options": {
+        "zIndex": 800000121,
+        "order": 800000121,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196683",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Дзержинского, 44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.52632944227031,
+          54.691264299213174
+        ]
+      },
+      "options": {
+        "zIndex": 800000122,
+        "order": 800000122,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196684",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Грига, 2-8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.532379484497724,
+          54.71066330801075
+        ]
+      },
+      "options": {
+        "zIndex": 800000123,
+        "order": 800000123,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196685",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Гостиная, 28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.487338792638354,
+          54.71618218673096
+        ]
+      },
+      "options": {
+        "zIndex": 800000124,
+        "order": 800000124,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196686",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Горбунова, 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.44742077840323,
+          54.774357149142915
+        ]
+      },
+      "options": {
+        "zIndex": 800000125,
+        "order": 800000125,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196687",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Голикова, 5А"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.51661560343455,
+          54.73215113978409
+        ]
+      },
+      "options": {
+        "zIndex": 800000126,
+        "order": 800000126,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196688",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Генерала Павлова, 14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.523026113104827,
+          54.7032883618287
+        ]
+      },
+      "options": {
+        "zIndex": 800000127,
+        "order": 800000127,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196689",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Генерал-лейтенанта Захарова, 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.471449028101883,
+          54.73467447871656
+        ]
+      },
+      "options": {
+        "zIndex": 800000128,
+        "order": 800000128,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196690",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Гайдара, 31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.49367466697234,
+          54.73390997196717
+        ]
+      },
+      "options": {
+        "zIndex": 800000129,
+        "order": 800000129,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196691",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Гагарина, 55Б"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.541113084655443,
+          54.71970567479819
+        ]
+      },
+      "options": {
+        "zIndex": 800000130,
+        "order": 800000130,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196692",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Гагарина, 113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.553348171267018,
+          54.7275120836419
+        ]
+      },
+      "options": {
+        "zIndex": 800000131,
+        "order": 800000131,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196693",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Восточный пер., 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.477905793813253,
+          54.68313331906745
+        ]
+      },
+      "options": {
+        "zIndex": 800000132,
+        "order": 800000132,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196694",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Воскресенская, 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.330286782733534,
+          54.64925195161646
+        ]
+      },
+      "options": {
+        "zIndex": 800000133,
+        "order": 800000133,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196695",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Вагоностроительная, 16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.457133,
+          54.712776
+        ]
+      },
+      "options": {
+        "zIndex": 800000134,
+        "order": 800000134,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196696",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Брусничная (кольцо)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.427369387557516,
+          54.71253676480425
+        ]
+      },
+      "options": {
+        "zIndex": 800000135,
+        "order": 800000135,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196697",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Белинского, 18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.449677349702288,
+          54.71602305458468
+        ]
+      },
+      "options": {
+        "zIndex": 800000136,
+        "order": 800000136,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196698",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Беланова, 77-85"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.44494932736956,
+          54.77213599990596
+        ]
+      },
+      "options": {
+        "zIndex": 800000137,
+        "order": 800000137,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196699",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Беланова, 39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.445159,
+          54.770736
+        ]
+      },
+      "options": {
+        "zIndex": 800000138,
+        "order": 800000138,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196700",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Батальная, 71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.50874221273762,
+          54.675157826222595
+        ]
+      },
+      "options": {
+        "zIndex": 800000139,
+        "order": 800000139,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196701",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Батальная, 67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.505845427002015,
+          54.67761211535313
+        ]
+      },
+      "options": {
+        "zIndex": 800000140,
+        "order": 800000140,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196702",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Батальная, 13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.496574354665242,
+          54.678815018556676
+        ]
+      },
+      "options": {
+        "zIndex": 800000141,
+        "order": 800000141,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196703",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Балтийское шоссе, 108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.37574053372868,
+          54.7184996242242
+        ]
+      },
+      "options": {
+        "zIndex": 800000142,
+        "order": 800000142,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196704",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Балтийская, 14-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.509953,
+          54.738025
+        ]
+      },
+      "options": {
+        "zIndex": 800000143,
+        "order": 800000143,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196705",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Тульская, 31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.565698,
+          54.706183
+        ]
+      },
+      "options": {
+        "zIndex": 800000144,
+        "order": 800000144,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196706",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Баженова, 13а"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.569597016215972,
+          54.70381281851465
+        ]
+      },
+      "options": {
+        "zIndex": 800000145,
+        "order": 800000145,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196707",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Багратиона, 119-125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.498764380225538,
+          54.69769712653426
+        ]
+      },
+      "options": {
+        "zIndex": 800000146,
+        "order": 800000146,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196708",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Артиллерийская, 53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.549577808701905,
+          54.7357717444527
+        ]
+      },
+      "options": {
+        "zIndex": 800000147,
+        "order": 800000147,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196709",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Артиллерийская, 41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.547803835650907,
+          54.734596811938495
+        ]
+      },
+      "options": {
+        "zIndex": 800000148,
+        "order": 800000148,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196710",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Дадаева, 56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.541115,
+          54.729165
+        ]
+      },
+      "options": {
+        "zIndex": 800000149,
+        "order": 800000149,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196711",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Ангарская, 80-82"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.531406,
+          54.6713
+        ]
+      },
+      "options": {
+        "zIndex": 800000150,
+        "order": 800000150,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196712",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Аллея Смелых, 24Б"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.521988,
+          54.690198
+        ]
+      },
+      "options": {
+        "zIndex": 800000151,
+        "order": 800000151,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196713",
+      "properties": {
+        "name": "<strong>День вывоза:</strong> Понедельник",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Александра Невского, 76"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.533302126257865,
+          54.73655408607164
+        ]
+      },
+      "options": {
+        "zIndex": 800000152,
+        "order": 800000152,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196714",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Александра Невского, 46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.531017554728884,
+          54.730064194404655
+        ]
+      },
+      "options": {
+        "zIndex": 800000153,
+        "order": 800000153,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196715",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Алданская, 28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.34919035085514,
+          54.7269334957334
+        ]
+      },
+      "options": {
+        "zIndex": 800000154,
+        "order": 800000154,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196716",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Алданская, 22А"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.353038220901134,
+          54.7230306792344
+        ]
+      },
+      "options": {
+        "zIndex": 800000155,
+        "order": 800000155,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196717",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Аксакова, 102 -102, А"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.580241,
+          54.71136
+        ]
+      },
+      "options": {
+        "zIndex": 800000156,
+        "order": 800000156,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362196718",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "3-й Ржевский пер., 7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5531974649423,
+          54.68043152559454
+        ]
+      },
+      "options": {
+        "zIndex": 800000157,
+        "order": 800000157,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362197323",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "А. Толстого, 40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.350327,
+          54.733822
+        ]
+      },
+      "options": {
+        "zIndex": 800000158,
+        "order": 800000158,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "376038308",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "1-й Октябрьский пр-д, 8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.480546987304116,
+          54.71966546642348
+        ]
+      },
+      "options": {
+        "zIndex": 800000159,
+        "order": 800000159,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "376049072",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Согласия, 30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.49058,
+          54.745864
+        ]
+      },
+      "options": {
+        "zIndex": 800000161,
+        "order": 800000161,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "376049072",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Набережная А. Маринеско"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.518537,
+          54.714348
+        ]
+      },
+      "options": {
+        "zIndex": 800000161,
+        "order": 800000161,
+        "preset": "islands#darkOrangeIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "376049072",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Елизаветинский сквер"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.488385,
+          54.747502
+        ]
+      },
+      "options": {
+        "zIndex": 800000161,
+        "order": 800000161,
+        "preset": "islands#darkOrangeIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "376049072",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Парк у ТЦ «Акрополь» "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.506969,
+          54.722011
+        ]
+      },
+      "options": {
+        "zIndex": 800000161,
+        "order": 800000161,
+        "preset": "islands#darkOrangeIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "376049072",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Сцена рядом с Летним озером"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.485494,
+          54.676591
+        ]
+      },
+      "options": {
+        "zIndex": 800000161,
+        "order": 800000161,
+        "preset": "islands#darkOrangeIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "376049072",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Сквер «Мать-Россия»"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.502395,
+          54.716774
+        ]
+      },
+      "options": {
+        "zIndex": 800000161,
+        "order": 800000161,
+        "preset": "islands#darkOrangeIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "376049072",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Вход № 2 в ЦПКиО «Юность»"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.514576,
+          54.726634
+        ]
+      },
+      "options": {
+        "zIndex": 800000161,
+        "order": 800000161,
+        "preset": "islands#darkOrangeIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "376049072",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Вход в Зоопарк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.487963,
+          54.720275
+        ]
+      },
+      "options": {
+        "zIndex": 800000161,
+        "order": 800000161,
+        "preset": "islands#darkOrangeIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "376049072",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Остановка на пересечении Аллеи Смелых и ул. Дзержинского"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.523871,
+          54.69392
+        ]
+      },
+      "options": {
+        "zIndex": 800000161,
+        "order": 800000161,
+        "preset": "islands#darkOrangeIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "376049072",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Стадион «Балтика»"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.49282,
+          54.718966
+        ]
+      },
+      "options": {
+        "zIndex": 800000161,
+        "order": 800000161,
+        "preset": "islands#darkOrangeIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "376049072",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Сквер им. Румянцева у ТЦ «Плаза»"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.507201,
+          54.711843
+        ]
+      },
+      "options": {
+        "zIndex": 800000161,
+        "order": 800000161,
+        "preset": "islands#darkOrangeIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "376049072",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "Сквер рядом с КМРК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.505169,
+          54.702253
+        ]
+      },
+      "options": {
+        "zIndex": 800000161,
+        "order": 800000161,
+        "preset": "islands#darkOrangeIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362197323",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "ул. Ф.Воейкова,9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.496337,
+          54.745044
+        ]
+      },
+      "options": {
+        "zIndex": 800000158,
+        "order": 800000158,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3621973311",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "г Советск, ул Гастелло, д 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.897207,
+          55.074333
+        ]
+      },
+      "options": {
+        "zIndex": 800000158,
+        "order": 800000158,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3621973601",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "г Советск, пер Светлый, д 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.886725,
+          55.074487
+        ]
+      },
+      "options": {
+        "zIndex": 800000158,
+        "order": 800000158,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3621973681",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "г Советск, ул Бурова, д 13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.889021,
+          55.073508
+        ]
+      },
+      "options": {
+        "zIndex": 800000158,
+        "order": 800000158,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3621973691",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "г Советск, ул Пятницкого, д 10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.887851,
+          55.076978
+        ]
+      },
+      "options": {
+        "zIndex": 800000158,
+        "order": 800000158,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3621973701",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "г Советск, ул Пятницкого, д 6-8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.886763,
+          55.076907
+        ]
+      },
+      "options": {
+        "zIndex": 800000158,
+        "order": 800000158,
+        "preset": "islands#blueIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362197381",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "г Светлогорск, ул Сосновая, д 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.127168,
+          54.93919
+        ]
+      },
+      "options": {
+        "zIndex": 800000158,
+        "order": 800000158,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362197382",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "г Светлогорск, ул Фрунзе, 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.111985,
+          54.939964
+        ]
+      },
+      "options": {
+        "zIndex": 800000158,
+        "order": 800000158,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362197383",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "г Светлогорск, ул Дачная, 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.176372,
+          54.94427
+        ]
+      },
+      "options": {
+        "zIndex": 800000158,
+        "order": 800000158,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362197384",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "г Светлогорск, ул Пригородная, 42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.154222,
+          54.929894
+        ]
+      },
+      "options": {
+        "zIndex": 800000158,
+        "order": 800000158,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "362197385",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "г Светлогорск, ул Пионерская, 30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.157032,
+          54.925473
+        ]
+      },
+      "options": {
+        "zIndex": 800000158,
+        "order": 800000158,
+        "preset": "islands#darkgreenIcon"
+      }
+    }
+  ]
+}

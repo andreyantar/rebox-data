@@ -1,0 +1,2273 @@
+{
+  "city": "kaliningrad",
+  "sites": [
+    {
+      "id": "362196559",
+      "lat": 54.7210017330816,
+      "lng": 20.436263592649734,
+      "address": "пр. Мира, 181",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196560",
+      "lat": 54.72316069618134,
+      "lng": 20.46374148290248,
+      "address": "пр. Мира, 124",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196561",
+      "lat": 54.72898894600308,
+      "lng": 20.35122583565058,
+      "address": "пер. Карташева, 12",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196562",
+      "lat": 54.68378585294043,
+      "lng": 20.461330272491267,
+      "address": "парк имени Юрия Гагарина",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196564",
+      "lat": 54.69301612430241,
+      "lng": 20.51487061111431,
+      "address": "парк Южный",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196565",
+      "lat": 54.71289496402924,
+      "lng": 20.52453344659174,
+      "address": "Ярославская, 2",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196566",
+      "lat": 54.730139,
+      "lng": 20.481845,
+      "address": "Яналова, 14",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196567",
+      "lat": 54.705895704264954,
+      "lng": 20.551955408562772,
+      "address": "Ялтинская, 65А-Г",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196568",
+      "lat": 54.74183713556133,
+      "lng": 20.491200822089912,
+      "address": "Юрия Маточкина, 6-14",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196569",
+      "lat": 54.70030204810404,
+      "lng": 20.499150908152245,
+      "address": "Эльблонгская, 9-11",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196570",
+      "lat": 54.700337,
+      "lng": 20.496945,
+      "address": "Эльблонгская, 19",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196571",
+      "lat": 54.67145554246128,
+      "lng": 20.435617958334685,
+      "address": "Щепкина, 4",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196572",
+      "lat": 54.72272573987585,
+      "lng": 20.491070017022892,
+      "address": "Шота Руставели, 4",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196573",
+      "lat": 54.68329719048861,
+      "lng": 20.482691505626573,
+      "address": "Школьная, 3-5",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196574",
+      "lat": 54.712341,
+      "lng": 20.510681,
+      "address": "Шевченко, 1-3",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196575",
+      "lat": 54.67140496404954,
+      "lng": 20.50880068220886,
+      "address": "Шевцовой б, 92",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196576",
+      "lat": 54.67153762355931,
+      "lng": 20.504546015868357,
+      "address": "Шевцовой б, 43",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196577",
+      "lat": 54.723011084887915,
+      "lng": 20.550770447745624,
+      "address": "Чувашская, 9-11",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196578",
+      "lat": 54.72456401465623,
+      "lng": 20.35601455092481,
+      "address": "Челюскинская, 14",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196579",
+      "lat": 54.732732402638696,
+      "lng": 20.477305678572034,
+      "address": "Чекистов, 28",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196580",
+      "lat": 54.732758379519446,
+      "lng": 20.479287783948312,
+      "address": "Чекистов, 18",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196581",
+      "lat": 54.711034,
+      "lng": 20.451501,
+      "address": "Харьковская, 20",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196582",
+      "lat": 54.713711795178476,
+      "lng": 20.53149243788077,
+      "address": "Фрунзе, 91",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196583",
+      "lat": 54.691133,
+      "lng": 20.446133,
+      "address": "Транспортная, 12",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196584",
+      "lat": 54.71407128913458,
+      "lng": 20.527265276473578,
+      "address": "Томская, 8",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196586",
+      "lat": 54.73192684846019,
+      "lng": 20.356779034392577,
+      "address": "Толстого пер., 1-3",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196587",
+      "lat": 54.68448171255401,
+      "lng": 20.485619683536164,
+      "address": "Тихорецкая, 16",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196588",
+      "lat": 54.684436,
+      "lng": 20.487418,
+      "address": "Тихорецкая, 12",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196589",
+      "lat": 54.723113,
+      "lng": 20.430011,
+      "address": "Тихоненко, 71Б",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196590",
+      "lat": 54.68953,
+      "lng": 20.467094,
+      "address": "Суворова, 55",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196591",
+      "lat": 54.71943737296205,
+      "lng": 20.54939961607696,
+      "address": "Стрелецкая, 14-24",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196592",
+      "lat": 54.72282185565812,
+      "lng": 20.466694899474636,
+      "address": "Степана Разина, 39",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196593",
+      "lat": 54.71116574281294,
+      "lng": 20.535416509669677,
+      "address": "Стекольная, 47",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196594",
+      "lat": 54.70468167726718,
+      "lng": 20.520679272516066,
+      "address": "Солнечный бульвар, 18",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196595",
+      "lat": 54.73790163378599,
+      "lng": 20.481545208666905,
+      "address": "Солдатская, 1",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196596",
+      "lat": 54.74169722216959,
+      "lng": 20.494328548270644,
+      "address": "Согласия, 6",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196598",
+      "lat": 54.7370769843901,
+      "lng": 20.47999423677049,
+      "address": "Советский пр., 105",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196599",
+      "lat": 54.724157687150324,
+      "lng": 20.358778029429985,
+      "address": "Славянская, 47",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196600",
+      "lat": 54.732202,
+      "lng": 20.353242,
+      "address": "Сеченова, 14",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196601",
+      "lat": 54.718621,
+      "lng": 20.516317,
+      "address": "Сергеева, 41",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196602",
+      "lat": 54.71554941578767,
+      "lng": 20.512637388067382,
+      "address": "Севастьянова, 24",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196603",
+      "lat": 54.67735643366032,
+      "lng": 20.502078934992973,
+      "address": "Самаркандская, 28",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196604",
+      "lat": 54.68214405736123,
+      "lng": 20.467864254192094,
+      "address": "Садовая, 1",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196605",
+      "lat": 54.71837028481798,
+      "lng": 20.507518198638138,
+      "address": "Рокоссовского, 7",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196606",
+      "lat": 54.72748557283764,
+      "lng": 20.489422470133743,
+      "address": "Репина, 46",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196607",
+      "lat": 54.723423,
+      "lng": 20.512881,
+      "address": "Ракитная, 9-15",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196608",
+      "lat": 54.713868,
+      "lng": 20.437561,
+      "address": "Радистов, 1",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196609",
+      "lat": 54.70399977452432,
+      "lng": 20.501444196860337,
+      "address": "Портовая, 5-15",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196610",
+      "lat": 54.744816373984364,
+      "lng": 20.502923939811446,
+      "address": "Полковника Ефремова, 2-4",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196611",
+      "lat": 54.682346,
+      "lng": 20.574036,
+      "address": "Подполковника Емельянова, 49",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196612",
+      "lat": 54.714018,
+      "lng": 20.416882,
+      "address": "Победы пр., 208",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196613",
+      "lat": 54.711983,
+      "lng": 20.42468,
+      "address": "Победы пр., 201б",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196614",
+      "lat": 54.711079,
+      "lng": 20.436961,
+      "address": "Победы пр., 159А",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196615",
+      "lat": 54.67084407251857,
+      "lng": 20.475774836053713,
+      "address": "Печатная, 45",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196616",
+      "lat": 54.7034198572728,
+      "lng": 20.50812394858222,
+      "address": "Парусная, 29-33",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196617",
+      "lat": 54.663777,
+      "lng": 20.504189,
+      "address": "У. Громовой, 119",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196618",
+      "lat": 54.6745879070339,
+      "lng": 20.477081831841108,
+      "address": "Павлика Морозова, 102",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196619",
+      "lat": 54.73594553418296,
+      "lng": 20.510825362353447,
+      "address": "Озёрная, 2-4",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196620",
+      "lat": 54.72665012467736,
+      "lng": 20.49722084655676,
+      "address": "Озерова, 11",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196621",
+      "lat": 54.6785042356877,
+      "lng": 20.56079319945177,
+      "address": "Одесская-Краснопресненская",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196622",
+      "lat": 54.73623885797919,
+      "lng": 20.500431822032063,
+      "address": "Нарвская, 66",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196623",
+      "lat": 54.73160733838465,
+      "lng": 20.496670694441736,
+      "address": "Нарвская, 37",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196624",
+      "lat": 54.69477543274802,
+      "lng": 20.474001693114815,
+      "address": "Нансена, 74-78",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196625",
+      "lat": 54.696927,
+      "lng": 20.491884,
+      "address": "Нансена, 1",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196626",
+      "lat": 54.70984951744351,
+      "lng": 20.49666819377817,
+      "address": "Московский пр., 14Б",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196627",
+      "lat": 54.67674805555485,
+      "lng": 20.441884554561103,
+      "address": "Можайская, 67-69",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196628",
+      "lat": 54.650809201600254,
+      "lng": 20.342535901782167,
+      "address": "Мкр. Прибрежный,  Парковая, 9А",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196629",
+      "lat": 54.652729209513026,
+      "lng": 20.333473294650656,
+      "address": "Мкр. Прибрежный,  Заводская, 37",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196630",
+      "lat": 54.65085481958941,
+      "lng": 20.3331242919955,
+      "address": "Мкр. Прибрежный,  Заводская, 27А",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196631",
+      "lat": 54.65115798688486,
+      "lng": 20.327687452707835,
+      "address": "Мкр. Прибрежный,  Береговая, 66",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196632",
+      "lat": 54.64986012539171,
+      "lng": 20.330028827052754,
+      "address": "Мкр. Прибрежный,  Береговая, 27",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196633",
+      "lat": 54.682024086621176,
+      "lng": 20.62453639615494,
+      "address": "Мкр Малое Борисово, 11",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196634",
+      "lat": 54.718934431934294,
+      "lng": 20.511046838121512,
+      "address": "Минская, 18",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196635",
+      "lat": 54.71280231608007,
+      "lng": 20.44074288170376,
+      "address": "Менделеева, 12",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196636",
+      "lat": 54.678792,
+      "lng": 20.513529,
+      "address": "Машиностроительная, 176",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196637",
+      "lat": 54.67897286824651,
+      "lng": 20.50939868339467,
+      "address": "Машиностроительная, 146",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196638",
+      "lat": 54.73708993588605,
+      "lng": 20.462874092732548,
+      "address": "Маршала Борзова, 88",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196639",
+      "lat": 54.672759556113675,
+      "lng": 20.519049017196064,
+      "address": "Луганская, 7",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196640",
+      "lat": 54.71247610586406,
+      "lng": 20.53569577909732,
+      "address": "Литовский вал, 50-52",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196641",
+      "lat": 54.7351516847706,
+      "lng": 20.529107089617778,
+      "address": "Лескова, 3",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196642",
+      "lat": 54.699676251856694,
+      "lng": 20.502031310805698,
+      "address": "Ленинский пр., 84",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196643",
+      "lat": 54.71539025098737,
+      "lng": 20.502627384023942,
+      "address": "Ленинский пр., 8",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196644",
+      "lat": 54.701381654215446,
+      "lng": 20.502690082946803,
+      "address": "Ленинский пр., 44",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196645",
+      "lat": 54.71630589569626,
+      "lng": 20.504145320801943,
+      "address": "Ленинский пр., 25-27",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196646",
+      "lat": 54.699801068824875,
+      "lng": 20.504404014505752,
+      "address": "Ленинский пр., 123",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196647",
+      "lat": 54.72980236570478,
+      "lng": 20.48877818475771,
+      "address": "Лейтенанта Яналова, 3",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196648",
+      "lat": 54.727355,
+      "lng": 20.533793,
+      "address": "Куйбышева, 51",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196649",
+      "lat": 54.72545299942058,
+      "lng": 20.544831265219827,
+      "address": "Куйбышева, 181-187",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196650",
+      "lat": 54.72664169028228,
+      "lng": 20.541651842921603,
+      "address": "Куйбышева, 169",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196651",
+      "lat": 54.721131240492284,
+      "lng": 20.493319049281464,
+      "address": "Кронштадтская",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196652",
+      "lat": 54.669556269993436,
+      "lng": 20.442868441801863,
+      "address": "Кремлеская, 7",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196653",
+      "lat": 54.71269594082278,
+      "lng": 20.44563657205311,
+      "address": "Красносельская, 20",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196654",
+      "lat": 54.72533003022779,
+      "lng": 20.553607031911405,
+      "address": "Краснодонский пер., 8",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196655",
+      "lat": 54.731484,
+      "lng": 20.474852,
+      "address": "Красная, 88",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196656",
+      "lat": 54.67431430043276,
+      "lng": 20.513784167983765,
+      "address": "Кошевого, 11",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196657",
+      "lat": 54.71332648578775,
+      "lng": 20.498697947816577,
+      "address": "Космическая, 36",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196659",
+      "lat": 54.72665170916119,
+      "lng": 20.47757251128319,
+      "address": "Комсомольская, 37",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196660",
+      "lat": 54.675259402633394,
+      "lng": 20.482377853541752,
+      "address": "Коммунистическая, 30",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196661",
+      "lat": 54.73008740739732,
+      "lng": 20.465360500489794,
+      "address": "Коммунальный пер., 5",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196662",
+      "lat": 54.7106163671008,
+      "lng": 20.52452607051547,
+      "address": "Кирпичная, 17а",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196663",
+      "lat": 54.7256195868917,
+      "lng": 20.488158479137223,
+      "address": "Кирова, 55",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196664",
+      "lat": 54.6817437327242,
+      "lng": 20.47623023047976,
+      "address": "Киевская, 74",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196665",
+      "lat": 54.68188543668905,
+      "lng": 20.466927822090014,
+      "address": "Киевская, 112",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196666",
+      "lat": 54.715303,
+      "lng": 20.465424,
+      "address": "Каштановая аллея, 14А",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196667",
+      "lat": 54.716041,
+      "lng": 20.370945,
+      "address": "Карташева, 4",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196668",
+      "lat": 54.718297,
+      "lng": 20.371176,
+      "address": "Карташева, 30",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196670",
+      "lat": 54.72851239550131,
+      "lng": 20.499678466903617,
+      "address": "Калужская, 11-13",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196671",
+      "lat": 54.72353516858551,
+      "lng": 20.366954822090076,
+      "address": "Каблукова, 14",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196672",
+      "lat": 54.66876610310483,
+      "lng": 20.507455776790287,
+      "address": "Интернациональная, 60-62",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196673",
+      "lat": 54.670244913703705,
+      "lng": 20.49926529773599,
+      "address": "Интернациональная, 19-25",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196674",
+      "lat": 54.725417,
+      "lng": 20.373257,
+      "address": "Ижорская, 8",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196675",
+      "lat": 54.72670949710009,
+      "lng": 20.36658152513039,
+      "address": "Ижорская, 11",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196676",
+      "lat": 54.724539387108194,
+      "lng": 20.485479983219154,
+      "address": "Зоопарк",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196677",
+      "lat": 54.6836850239441,
+      "lng": 20.52383567341731,
+      "address": "Зои Космодемьянской, 2-4",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196678",
+      "lat": 54.71455714857934,
+      "lng": 20.498747568683868,
+      "address": "Звёздная, 25а",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196679",
+      "lat": 54.77031618257724,
+      "lng": 20.451728406080665,
+      "address": "Жиленкова, 16",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196680",
+      "lat": 54.68251728489519,
+      "lng": 20.585111557216027,
+      "address": "Емельянова, 253",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196681",
+      "lat": 54.72843529320828,
+      "lng": 20.54325984292155,
+      "address": "Еловая аллея, 40-44",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196682",
+      "lat": 54.71663327279485,
+      "lng": 20.49336571629521,
+      "address": "Дмитрия Донского, 3",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196683",
+      "lat": 54.691264299213174,
+      "lng": 20.52632944227031,
+      "address": "Дзержинского, 44",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196684",
+      "lat": 54.71066330801075,
+      "lng": 20.532379484497724,
+      "address": "Грига, 2-8",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196685",
+      "lat": 54.71618218673096,
+      "lng": 20.487338792638354,
+      "address": "Гостиная, 28",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196686",
+      "lat": 54.774357149142915,
+      "lng": 20.44742077840323,
+      "address": "Горбунова, 1",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196687",
+      "lat": 54.73215113978409,
+      "lng": 20.51661560343455,
+      "address": "Голикова, 5А",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196688",
+      "lat": 54.7032883618287,
+      "lng": 20.523026113104827,
+      "address": "Генерала Павлова, 14",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196689",
+      "lat": 54.73467447871656,
+      "lng": 20.471449028101883,
+      "address": "Генерал-лейтенанта Захарова, 1",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196690",
+      "lat": 54.73390997196717,
+      "lng": 20.49367466697234,
+      "address": "Гайдара, 31",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196691",
+      "lat": 54.71970567479819,
+      "lng": 20.541113084655443,
+      "address": "Гагарина, 55Б",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196692",
+      "lat": 54.7275120836419,
+      "lng": 20.553348171267018,
+      "address": "Гагарина, 113",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196693",
+      "lat": 54.68313331906745,
+      "lng": 20.477905793813253,
+      "address": "Восточный пер., 3",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196694",
+      "lat": 54.64925195161646,
+      "lng": 20.330286782733534,
+      "address": "Воскресенская, 3",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196695",
+      "lat": 54.712776,
+      "lng": 20.457133,
+      "address": "Вагоностроительная, 16",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196696",
+      "lat": 54.71253676480425,
+      "lng": 20.427369387557516,
+      "address": "Брусничная (кольцо)",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196697",
+      "lat": 54.71602305458468,
+      "lng": 20.449677349702288,
+      "address": "Белинского, 18",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196698",
+      "lat": 54.77213599990596,
+      "lng": 20.44494932736956,
+      "address": "Беланова, 77-85",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196699",
+      "lat": 54.770736,
+      "lng": 20.445159,
+      "address": "Беланова, 39",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196700",
+      "lat": 54.675157826222595,
+      "lng": 20.50874221273762,
+      "address": "Батальная, 71",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196701",
+      "lat": 54.67761211535313,
+      "lng": 20.505845427002015,
+      "address": "Батальная, 67",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196702",
+      "lat": 54.678815018556676,
+      "lng": 20.496574354665242,
+      "address": "Батальная, 13",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196703",
+      "lat": 54.7184996242242,
+      "lng": 20.37574053372868,
+      "address": "Балтийское шоссе, 108",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196704",
+      "lat": 54.738025,
+      "lng": 20.509953,
+      "address": "Балтийская, 14-18",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196705",
+      "lat": 54.706183,
+      "lng": 20.565698,
+      "address": "Тульская, 31",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196706",
+      "lat": 54.70381281851465,
+      "lng": 20.569597016215972,
+      "address": "Баженова, 13а",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196707",
+      "lat": 54.69769712653426,
+      "lng": 20.498764380225538,
+      "address": "Багратиона, 119-125",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196708",
+      "lat": 54.7357717444527,
+      "lng": 20.549577808701905,
+      "address": "Артиллерийская, 53",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196709",
+      "lat": 54.734596811938495,
+      "lng": 20.547803835650907,
+      "address": "Артиллерийская, 41",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196710",
+      "lat": 54.729165,
+      "lng": 20.541115,
+      "address": "Дадаева, 56",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196711",
+      "lat": 54.6713,
+      "lng": 20.531406,
+      "address": "Ангарская, 80-82",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196712",
+      "lat": 54.690198,
+      "lng": 20.521988,
+      "address": "Аллея Смелых, 24Б",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196713",
+      "lat": 54.73655408607164,
+      "lng": 20.533302126257865,
+      "address": "Александра Невского, 76",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196714",
+      "lat": 54.730064194404655,
+      "lng": 20.531017554728884,
+      "address": "Александра Невского, 46",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196715",
+      "lat": 54.7269334957334,
+      "lng": 20.34919035085514,
+      "address": "Алданская, 28",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196716",
+      "lat": 54.7230306792344,
+      "lng": 20.353038220901134,
+      "address": "Алданская, 22А",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362196717",
+      "lat": 54.71136,
+      "lng": 20.580241,
+      "address": "Аксакова, 102 -102, А",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362196718",
+      "lat": 54.68043152559454,
+      "lng": 20.5531974649423,
+      "address": "3-й Ржевский пер., 7",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362197323",
+      "lat": 54.733822,
+      "lng": 20.350327,
+      "address": "А. Толстого, 40",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "376038308",
+      "lat": 54.71966546642348,
+      "lng": 20.480546987304116,
+      "address": "1-й Октябрьский пр-д, 8",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "376049072",
+      "lat": 54.745864,
+      "lng": 20.49058,
+      "address": "Согласия, 30",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "376049072",
+      "lat": 54.714348,
+      "lng": 20.518537,
+      "address": "Набережная А. Маринеско",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "orange_3"
+    },
+    {
+      "id": "376049072",
+      "lat": 54.747502,
+      "lng": 20.488385,
+      "address": "Елизаветинский сквер",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "orange_3"
+    },
+    {
+      "id": "376049072",
+      "lat": 54.722011,
+      "lng": 20.506969,
+      "address": "Парк у ТЦ «Акрополь»",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "orange_3"
+    },
+    {
+      "id": "376049072",
+      "lat": 54.676591,
+      "lng": 20.485494,
+      "address": "Сцена рядом с Летним озером",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "orange_3"
+    },
+    {
+      "id": "376049072",
+      "lat": 54.716774,
+      "lng": 20.502395,
+      "address": "Сквер «Мать-Россия»",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "orange_3"
+    },
+    {
+      "id": "376049072",
+      "lat": 54.726634,
+      "lng": 20.514576,
+      "address": "Вход № 2 в ЦПКиО «Юность»",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "orange_3"
+    },
+    {
+      "id": "376049072",
+      "lat": 54.720275,
+      "lng": 20.487963,
+      "address": "Вход в Зоопарк",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "orange_3"
+    },
+    {
+      "id": "376049072",
+      "lat": 54.69392,
+      "lng": 20.523871,
+      "address": "Остановка на пересечении Аллеи Смелых и ул. Дзержинского",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "orange_3"
+    },
+    {
+      "id": "376049072",
+      "lat": 54.718966,
+      "lng": 20.49282,
+      "address": "Стадион «Балтика»",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "orange_3"
+    },
+    {
+      "id": "376049072",
+      "lat": 54.711843,
+      "lng": 20.507201,
+      "address": "Сквер им. Румянцева у ТЦ «Плаза»",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "orange_3"
+    },
+    {
+      "id": "376049072",
+      "lat": 54.702253,
+      "lng": 20.505169,
+      "address": "Сквер рядом с КМРК",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "orange_3"
+    },
+    {
+      "id": "362197323",
+      "lat": 54.745044,
+      "lng": 20.496337,
+      "address": "ул. Ф.Воейкова,9",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "3621973311",
+      "lat": 55.074333,
+      "lng": 21.897207,
+      "address": "г Советск, ул Гастелло, д 1",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "3621973601",
+      "lat": 55.074487,
+      "lng": 21.886725,
+      "address": "г Советск, пер Светлый, д 1",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "3621973681",
+      "lat": 55.073508,
+      "lng": 21.889021,
+      "address": "г Советск, ул Бурова, д 13",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "3621973691",
+      "lat": 55.076978,
+      "lng": 21.887851,
+      "address": "г Советск, ул Пятницкого, д 10",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "3621973701",
+      "lat": 55.076907,
+      "lng": 21.886763,
+      "address": "г Советск, ул Пятницкого, д 6-8",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic"
+      ],
+      "container_type": "blue_3"
+    },
+    {
+      "id": "362197381",
+      "lat": 54.93919,
+      "lng": 20.127168,
+      "address": "г Светлогорск, ул Сосновая, д 5",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362197382",
+      "lat": 54.939964,
+      "lng": 20.111985,
+      "address": "г Светлогорск, ул Фрунзе, 1",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362197383",
+      "lat": 54.94427,
+      "lng": 20.176372,
+      "address": "г Светлогорск, ул Дачная, 4",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362197384",
+      "lat": 54.929894,
+      "lng": 20.154222,
+      "address": "г Светлогорск, ул Пригородная, 42",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    },
+    {
+      "id": "362197385",
+      "lat": 54.925473,
+      "lng": 20.157032,
+      "address": "г Светлогорск, ул Пионерская, 30",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
+    }
+  ]
+}

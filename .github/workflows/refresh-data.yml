@@ -1,0 +1,36 @@
+name: Refresh city data
+
+on:
+  schedule:
+    - cron: '17 5 * * 1'  # Monday 05:17 UTC = 08:17 MSK
+  workflow_dispatch: {}    # ручной запуск из UI
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch & normalize Kaliningrad
+        run: python scripts/fetch_and_normalize.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "rebox-databot"
+          git config user.email "rebox-databot@users.noreply.github.com"
+          if git diff --quiet -- data/; then
+            echo "No data changes."
+            exit 0
+          fi
+          # Compose diff summary for commit body
+          COUNT=$(python -c "import json; print(json.load(open('data/kaliningrad/meta.json'))['sites_count'])")
+          git add data/
+          git commit -m "data(kaliningrad): refresh — ${COUNT} sites"
+          git push
