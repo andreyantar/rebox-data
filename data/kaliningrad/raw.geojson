@@ -140,7 +140,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Яналова, 14"
+        "iconCaption": "ул. Лейт. Яналова, 18"
       },
       "geometry": {
         "type": "Point",
@@ -394,28 +394,6 @@
       "options": {
         "zIndex": 800000018,
         "order": 800000018,
-        "preset": "islands#darkgreenIcon"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "362196578",
-      "properties": {
-        "name": "",
-        "description": "",
-        "iconContent": "",
-        "iconCaption": "Челюскинская, 14"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.35601455092481,
-          54.72456401465623
-        ]
-      },
-      "options": {
-        "zIndex": 800000019,
-        "order": 800000019,
         "preset": "islands#darkgreenIcon"
       }
     },
@@ -712,7 +690,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Стекольная, 47"
+        "iconCaption": "Стекольная, 45-51"
       },
       "geometry": {
         "type": "Point",
@@ -769,28 +747,6 @@
         "zIndex": 800000035,
         "order": 800000035,
         "preset": "islands#darkgreenIcon"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "362196596",
-      "properties": {
-        "name": "",
-        "description": "",
-        "iconContent": "",
-        "iconCaption": "Согласия, 6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.494328548270644,
-          54.74169722216959
-        ]
-      },
-      "options": {
-        "zIndex": 800000036,
-        "order": 800000036,
-        "preset": "islands#blueIcon"
       }
     },
     {
@@ -1086,7 +1042,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Подполковника Емельянова, 49"
+        "iconCaption": "Подполковника Емельянова, 49-51"
       },
       "geometry": {
         "type": "Point",
@@ -1152,7 +1108,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Победы пр., 159А"
+        "iconCaption": "Пр-т. Победы, 159"
       },
       "geometry": {
         "type": "Point",
@@ -1196,7 +1152,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Парусная, 29-33"
+        "iconCaption": "Парусная, 29-31"
       },
       "geometry": {
         "type": "Point",
@@ -1389,28 +1345,6 @@
     },
     {
       "type": "Feature",
-      "id": "362196625",
-      "properties": {
-        "name": "",
-        "description": "",
-        "iconContent": "",
-        "iconCaption": "Нансена, 1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.491884,
-          54.696927
-        ]
-      },
-      "options": {
-        "zIndex": 800000064,
-        "order": 800000064,
-        "preset": "islands#darkgreenIcon"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "362196626",
       "properties": {
         "name": "",
@@ -1438,7 +1372,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Можайская, 67-69"
+        "iconCaption": "Можайская, 67-69 (ближе к дому № 1-3 п ул. Заводской)"
       },
       "geometry": {
         "type": "Point",
@@ -1460,7 +1394,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Мкр. Прибрежный,  Парковая, 9А"
+        "iconCaption": "Мкр. Прибрежный ул. Парковая, 12"
       },
       "geometry": {
         "type": "Point",
@@ -1900,7 +1834,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Куйбышева, 51"
+        "iconCaption": "Куйбышева, 29-39"
       },
       "geometry": {
         "type": "Point",
@@ -1966,7 +1900,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Кронштадтская"
+        "iconCaption": "ул. Грекова - Кронштадская"
       },
       "geometry": {
         "type": "Point",
@@ -1988,7 +1922,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Кремлеская, 7"
+        "iconCaption": "Кремлевская, 7"
       },
       "geometry": {
         "type": "Point",
@@ -2010,7 +1944,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Красносельская, 20"
+        "iconCaption": "ул. Красносельская, 18"
       },
       "geometry": {
         "type": "Point",
@@ -2076,7 +2010,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Кошевого, 11"
+        "iconCaption": "Олега Кошевого, 11"
       },
       "geometry": {
         "type": "Point",
@@ -2142,7 +2076,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Коммунистическая, 30"
+        "iconCaption": "Коммунистическая, 32-32 Б"
       },
       "geometry": {
         "type": "Point",
@@ -2181,28 +2115,6 @@
     },
     {
       "type": "Feature",
-      "id": "362196662",
-      "properties": {
-        "name": "",
-        "description": "",
-        "iconContent": "",
-        "iconCaption": "Кирпичная, 17а"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.52452607051547,
-          54.7106163671008
-        ]
-      },
-      "options": {
-        "zIndex": 800000101,
-        "order": 800000101,
-        "preset": "islands#blueIcon"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "362196663",
       "properties": {
         "name": "",
@@ -2230,7 +2142,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Киевская, 74"
+        "iconCaption": "Киевская, 74 А-Е"
       },
       "geometry": {
         "type": "Point",
@@ -2340,7 +2252,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Калужская, 11-13"
+        "iconCaption": "ул. Желябова, 27"
       },
       "geometry": {
         "type": "Point",
@@ -2494,7 +2406,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Зои Космодемьянской, 2-4"
+        "iconCaption": "Зои Космодемьянской, 2-8"
       },
       "geometry": {
         "type": "Point",
@@ -2692,7 +2604,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Горбунова, 1"
+        "iconCaption": "ул. Беланова, 99"
       },
       "geometry": {
         "type": "Point",
@@ -2846,7 +2758,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Восточный пер., 3"
+        "iconCaption": "Пер. Восточный, 4"
       },
       "geometry": {
         "type": "Point",
@@ -2912,7 +2824,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Брусничная (кольцо)"
+        "iconCaption": "ул. Брусничная, 1"
       },
       "geometry": {
         "type": "Point",
@@ -2978,7 +2890,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Беланова, 39"
+        "iconCaption": "Беланова, 39-49"
       },
       "geometry": {
         "type": "Point",
@@ -3044,7 +2956,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Батальная, 13"
+        "iconCaption": "Батальная, 13-15"
       },
       "geometry": {
         "type": "Point",
@@ -3220,7 +3132,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Дадаева, 56"
+        "iconCaption": "Дадаева, 62"
       },
       "geometry": {
         "type": "Point",
@@ -3308,7 +3220,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Александра Невского, 46"
+        "iconCaption": "Александра Невского, 48"
       },
       "geometry": {
         "type": "Point",
@@ -3374,7 +3286,7 @@
         "name": "",
         "description": "",
         "iconContent": "",
-        "iconCaption": "Аксакова, 102 -102, А"
+        "iconCaption": "Аксакова, 102-102, А, 104 - 104А"
       },
       "geometry": {
         "type": "Point",
@@ -3699,28 +3611,6 @@
     },
     {
       "type": "Feature",
-      "id": "376049072",
-      "properties": {
-        "name": "",
-        "description": "",
-        "iconContent": "",
-        "iconCaption": "Сквер рядом с КМРК"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.505169,
-          54.702253
-        ]
-      },
-      "options": {
-        "zIndex": 800000161,
-        "order": 800000161,
-        "preset": "islands#darkOrangeIcon"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "362197323",
       "properties": {
         "name": "",
@@ -3941,7 +3831,7 @@
     },
     {
       "type": "Feature",
-      "id": "362197385",
+      "id": "3621973851",
       "properties": {
         "name": "",
         "description": "",
@@ -3958,6 +3848,28 @@
       "options": {
         "zIndex": 800000158,
         "order": 800000158,
+        "preset": "islands#darkgreenIcon"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3621966841",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "ул. Литовский вал, 89А"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.539354,
+          54.708075
+        ]
+      },
+      "options": {
+        "zIndex": 800000123,
+        "order": 800000123,
         "preset": "islands#darkgreenIcon"
       }
     }
