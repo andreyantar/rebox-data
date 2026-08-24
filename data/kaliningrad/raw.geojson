@@ -3872,6 +3872,28 @@
         "order": 800000123,
         "preset": "islands#darkgreenIcon"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "362197711",
+      "properties": {
+        "name": "",
+        "description": "",
+        "iconContent": "",
+        "iconCaption": "ул. Герцена, 1В"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.52183,
+          54.747316
+        ]
+      },
+      "options": {
+        "zIndex": 8000000124,
+        "order": 8000000124,
+        "preset": "islands#darkgreenIcon"
+      }
     }
   ]
 }

@@ -2219,6 +2219,19 @@
         "glass"
       ],
       "container_type": "green_4"
+    },
+    {
+      "id": "362197711",
+      "lat": 54.747316,
+      "lng": 20.52183,
+      "address": "ул. Герцена, 1В",
+      "fractions": [
+        "paper",
+        "metal",
+        "plastic",
+        "glass"
+      ],
+      "container_type": "green_4"
     }
   ]
 }
